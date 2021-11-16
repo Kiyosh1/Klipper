@@ -1,2 +1,2 @@
-# Klipper
+# KlipperVoronLegacy
  3DprinterConfig
